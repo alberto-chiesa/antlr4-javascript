@@ -1,0 +1,24 @@
+{
+  "name": "antlr4",
+  "version": "4.5.1",
+  "description": "JavaScript runtime for ANTLR4",
+  "main": "src/antlr4/index.js",
+  "repository": "antlr/antlr4-javascript.git",
+  "keywords": [
+    "lexer",
+    "parser",
+    "antlr",
+    "antlr4",
+    "grammar"
+  ],
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/antlr/antlr4-javascript/issues"
+  },
+  "homepage": "https://github.com/antlr/antlr4-javascript",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^4.0.0",
+    "grunt-contrib-uglify": "^0.9.1"
+  }
+}
